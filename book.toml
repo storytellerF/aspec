@@ -1,0 +1,6 @@
+[book]
+authors = ["storytellerF"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "A Spec"
