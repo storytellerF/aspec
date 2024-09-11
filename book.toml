@@ -6,4 +6,4 @@ src = "src"
 title = "A Spec"
 
 [output.html]
-site-url = "/spec/"
+site-url = "/aspec/"
