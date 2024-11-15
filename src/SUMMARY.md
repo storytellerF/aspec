@@ -3,7 +3,7 @@
 - [ACG](./ACG.md)
 - [Audit](./Audit.md)
 - [Community](./Community.md)
-- [Hat](./Hat.md)
+- [Disk](./Disk.md)
 - [Interaction](./Interaction.md)
 - [Room](./Room.md)
 - [Title](./Title.md)
